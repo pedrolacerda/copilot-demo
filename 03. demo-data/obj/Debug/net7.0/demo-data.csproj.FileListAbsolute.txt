@@ -1,0 +1,15 @@
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/bin/Debug/net7.0/demo-data
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/bin/Debug/net7.0/demo-data.deps.json
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/bin/Debug/net7.0/demo-data.runtimeconfig.json
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/bin/Debug/net7.0/demo-data.dll
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/bin/Debug/net7.0/demo-data.pdb
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.csproj.AssemblyReference.cache
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.AssemblyInfoInputs.cache
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.AssemblyInfo.cs
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.csproj.CoreCompileInputs.cache
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.dll
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/refint/demo-data.dll
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.pdb
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/demo-data.genruntimeconfig.cache
+/Users/pedrolacerda/Desktop/CEFET/copilot/03. demo-data/obj/Debug/net7.0/ref/demo-data.dll
