@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Workout",
+    "description": "Do 30 minutes of cardio",
+    "time": "07:00"
+  },
+  {
+    "id": 2,
+    "title": "Breakfast",
+    "description": "Eat a healthy breakfast",
+    "time": "08:00"
+  },
+  {
+    "id": 3,
+    "title": "Work",
+    "description": "Start working on the project",
+    "time": "09:00"
+  },
+  {
+    "id": 4,
+    "title": "Lunch Break",
+    "description": "Have a light lunch",
+    "time": "13:00"
+  },
+  {
+    "id": 5,
+    "title": "Evening Walk",
+    "description": "Go for a 30 minute walk",
+    "time": "18:00"
+  },
+  {
+    "id": 6,
+    "title": "Dinner",
+    "description": "Have a balanced meal",
+    "time": "20:00"
+  },
+  {
+    "id": 7,
+    "title": "Bedtime",
+    "description": "Go to bed and get 8 hours of sleep",
+    "time": "22:00"
+  },
+  {
+    "id": 8,
+    "title": "Wake Up",
+    "description": "Wake up and start your day",
+    "time": "07:00"
+  },
+  {
+    "id": 9,
+    "title": "Mid-morning Snack",
+    "description": "Have a piece of fruit or a handful of nuts",
+    "time": "10:30"
+  },
+  {
+    "id": 10,
+    "title": "Afternoon Break",
+    "description": "Take a 15 minute break from work",
+    "time": "15:00"
+  },
+  {
+    "id": 11,
+    "title": "Evening Relaxation",
+    "description": "Do some light reading or meditation",
+    "time": "19:00"
+  },
+  {
+    "id": 12,
+    "title": "Pre-bed Routine",
+    "description": "Brush teeth and prepare for bed",
+    "time": "21:30"
+  },
+  {
+    "id": 13,
+    "title": "Sleep",
+    "description": "Turn off lights and go to sleep",
+    "time": "22:30"
+  }
+]
