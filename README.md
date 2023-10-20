@@ -5,10 +5,17 @@ This repository is used to demonstrate the main features of GitHub Copilot. It c
 ## Structure
 
 The repository is structured into different directories, each representing a different programming language or concept. For example, the `java` directory contains Java code examples.
+For every demo, there's a specific branch in this repo. If you want to see the work it resulted, check its branch. There's an automation that automagically lists the demos in the section [`Demos`](https://github.com/pedrolacerda/copilot-demo/main/README.md#demos), below.
 
 ## Usage
 
 To use this repository, simply navigate to the directory of interest and view the code examples. You can also use these examples as a starting point for your own projects.
+
+## Demos
+
+| Demo | Date | Branch |
+|  --  |  --  |   --   |
+| CEFET-MG | 19-Oct-2023 | `cefet-demo` |
 
 ## Contributions
 
