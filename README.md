@@ -18,6 +18,7 @@ To use this repository, simply navigate to the directory of interest and view th
 | Demo | Date | Branch |
 |  --  |  --  |   --   |
 | CEFET-MG | 19-Oct-2023 | `cefet-demo` |
+| IJr      | 20-Dec-2023 | `ijr-demo`   |
 
 ## Contributions
 
